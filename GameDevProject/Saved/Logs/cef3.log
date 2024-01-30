@@ -1,0 +1,14 @@
+[0124/152324.613:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0124/152324.614:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0124/152324.614:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.614:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.614:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.614:ERROR:entry_impl.cc(1075)] No file for c10312f6
+[0124/152324.616:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.769:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.770:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.771:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.772:WARNING:storage_block-inl.h(146)] Failed data load.
+[0124/152324.773:ERROR:entry_impl.cc(998)] Failed to save user data
+[0124/152324.773:ERROR:entry_impl.cc(998)] Failed to save user data
+[0124/152523.708:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
